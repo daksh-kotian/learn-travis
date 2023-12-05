@@ -1,0 +1,16 @@
+{
+  "name": "learn-travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "^2.13.6"
+  },
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
